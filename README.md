@@ -1,0 +1,2 @@
+# Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning
+A machine learning pipeline for classifying cybersecurity incidents as True Positive(TP), Benign Positive(BP), or False Positive(FP) using the Microsoft GUIDE dataset. Features advanced preprocessing, XGBoost optimization, SMOTE, SHAP analysis, and deployment-ready models. Tools: Python, scikit-learn, XGBoost, LightGBM, SHAP and imbalanced-learn
